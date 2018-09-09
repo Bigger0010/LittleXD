@@ -33,11 +33,10 @@ read = json.load(readOpen)
 settings = json.load(settingsOpen)
 Rfu = [line]
 Exc = [line]
-lineMID = line.getProfile(u7a95e1c0ad51d08814e319acbc3fbba7).mid
-bot1 = line.getProfile().mid
+lineMID = line.getProfile().mid
+bot1 = line.getProfile(u7a95e1c0ad51d08814e319acbc3fbba7).mid
 RfuBot=[lineMID] 
-admin=[u7a95e1c0ad51d08814e319acbc3fbba7[MID]
-lineMID=[u7a95e1c0ad51d08814e319acbc3fbba7[MID]
+admin=['u7a95e1c0ad51d08814e319acbc3fbba7',lineMID]
 RfuFamily = RfuBot 
 
 protectname = []
