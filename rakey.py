@@ -21,7 +21,7 @@ line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 
 print ("Login Succes")
 
-lineMID = line.profile u7a95e1c0ad51d08814e319acbc3fbba7.mid
+lineMID = line.profile (.mid)
 lineProfile = line.getProfile(u7a95e1c0ad51d08814e319acbc3fbba7)
 lineSettings = line.getSettings(u7a95e1c0ad51d08814e319acbc3fbba7)
 
